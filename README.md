@@ -10,4 +10,4 @@ Please check the *License* file for licensing terms.
 
 # Dependancies
 
-The project depends on the core library of averest framework to parse guarded actions. In order to simulate the generated C++ code you need to install [SystemC](http://accellera.org/downloads/standards/systemc) and [SysteMoC](https://www12.informatik.uni-erlangen.de/research/scd/systemoc.phphttps://www12.informatik.uni-erlangen.de/research/scd/systemoc.php).
+The project depends on the core library of averest framework to parse guarded actions. The library can be found in folder  */depend*. In order to simulate the generated C++ code you need to install [SystemC](http://accellera.org/downloads/standards/systemc) and [SysteMoC](https://www12.informatik.uni-erlangen.de/research/scd/systemoc.phphttps://www12.informatik.uni-erlangen.de/research/scd/systemoc.php).
