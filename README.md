@@ -1,6 +1,6 @@
-# quartz-synthesizer
+# Quarto
 
-A library and an example MS Visual Studio project developed in F#. The library is developed for synthesizing modules written in the synchronous language Quartz to actors in SysteMoC. SysteMoC is a SystemC based actor oriented modeling library.
+An F# library and an example VS project developed for synthesizing modules written in the synchronous language Quartz to actors in SysteMoC. SysteMoC is a SystemC based actor oriented modeling library.
 
 Quartz is an experimental synchronous language developed by the Embedded Systems Group, Technical University of Kaiserslautern. Quartz is part of the [Averest framework](http://www.averest.org/)  for formal model-based design of embdded systems. [SysteMoC](https://www12.informatik.uni-erlangen.de/research/scd/systemoc.phphttps://www12.informatik.uni-erlangen.de/research/scd/systemoc.php) is a SystemC based library for actor-oriented modeling, its developed by the Hardware-Software-Codesign group, University of Erlangen.
 
